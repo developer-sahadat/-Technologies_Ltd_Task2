@@ -145,12 +145,14 @@ const Footer = () => {
                 Md Shahadat Hossain
               </h6>
               <p>
-                I'm still learning to develop myself and be a good developer.
+                I'm still learning to develop myself and be a good developer.I
+                want to build my career with development. So I want to work for
+                any company to enhance my skills
               </p>
             </div>
             <div class="">
               <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
-                Products
+                Skills
               </h6>
               <p class="mb-4">
                 <a href="#!" class="text-gray-600">
@@ -175,26 +177,26 @@ const Footer = () => {
             </div>
             <div class="">
               <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
-                Useful links
+                TECHNOLOGIES TOOLS
               </h6>
               <p class="mb-4">
                 <a href="#!" class="text-gray-600">
-                  Home
+                  Git and GitHub
                 </a>
               </p>
               <p class="mb-4">
                 <a href="#!" class="text-gray-600">
-                  Product & Services
+                  Firebase Authorization
                 </a>
               </p>
               <p class="mb-4">
                 <a href="#!" class="text-gray-600">
-                  Become a Client
+                  Browser Dev Tools
                 </a>
               </p>
               <p>
                 <a href="#!" class="text-gray-600">
-                  About Us
+                  Stripe Payment Method
                 </a>
               </p>
             </div>
@@ -262,7 +264,7 @@ const Footer = () => {
         <div class="text-center p-6 bg-gray-200">
           <span>© 2022 Copyright:</span>
           <a class="text-gray-600 font-semibold" href="/">
-            MUJIB NOBOBORSHO
+            Shahadat Hossain
           </a>
         </div>
       </footer>
